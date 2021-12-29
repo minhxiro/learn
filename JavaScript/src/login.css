@@ -1,0 +1,20 @@
+body {
+  background: url(https://www.rmit.edu.vn/content/dam/rmit/vn/en/assets-for-production/images/rmit-sgs-campus-facilities/2015-campus-photos/rmit-sgs-b2-flycam-04.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border: 2px solid black;
+  height: 300px;
+  padding-top: 100px;
+}
+h1 {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 1;
+  flex-grow: 1;
+}

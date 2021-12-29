@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(#32d187, #59de9f);
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  align-content: flex-end;
+  margin-top: 20%;
+  font-size: 100px;
+}
+
+.butt {
+  height: 50px;
+  width: 80px;
+  font-size: larger;
+  border-radius: 10px;
+  border-color: red;
+}
+
+.butt:hover {
+  background: lightpink;
+}
